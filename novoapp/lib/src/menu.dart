@@ -23,7 +23,7 @@ class Menu extends StatelessWidget {
       itemBuilder: (context) => [
         const PopupMenuItem<_MenuOptions>(
           value: _MenuOptions.navigationDelegate,
-          child: Text('Navigate to YouTube'),
+          child: Text('Chamar no WhatsApp'),
         ),
       ],
     );
